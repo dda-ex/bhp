@@ -1,2 +1,6 @@
-# bhp
-Black Hat Python (3)
+# Black Hat Python
+
+Programs and exercises from BHP3
+
+Under construction
+
