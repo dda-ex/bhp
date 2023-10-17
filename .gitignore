@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore binary files 
+*.o
+*.out
+*.exe
+*.msi
+*.bin
+*.pyo
+
